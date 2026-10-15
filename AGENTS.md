@@ -14,6 +14,7 @@ This repository contains reusable AI coding workflows that can be installed glob
 - **design** — Design-and-decompose workflow (ingest, research, draft, decompose, revise, publish, respond, sync)
 - **docs-writer** — Documentation creation workflow (gather, plan, draft, validate, apply, mr)
 - **e2e** — Story-to-tests workflow for [QE] stories (ingest, plan, revise, code, validate, publish, respond)
+- **flightctl-collection-upgrade** — Flightctl API-version comparison and Ansible collection upgrade planning
 - **implement** — Story-to-code workflow (ingest, plan, revise, code, validate, publish, respond)
 - **kcs** — KCS Solution article workflow (gather, draft, validate, handoff)
 - **prd** — Requirements-to-PRD workflow (ingest, clarify, draft, revise, publish, respond)
@@ -143,6 +144,7 @@ ai-workflows/
 ├── design/
 ├── docs-writer/
 ├── e2e/
+├── flightctl-collection-upgrade/
 ├── implement/
 ├── kcs/
 ├── prd/
